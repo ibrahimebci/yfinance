@@ -1,5 +1,5 @@
-# Download market data from Yahoo! Finance's API
 
+# Download market data from Yahoo! Finance's API
 <table border=1 cellpadding=10><tr><td>
 
 #### \*\*\* IMPORTANT LEGAL DISCLAIMER \*\*\*
